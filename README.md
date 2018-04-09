@@ -11,7 +11,7 @@ RunCheck requires a few steps to get started.  You'll want to start  in the dire
 #### Install RunCheck
 1. Clone the ```RunCheck``` repo from GitHub
 ```sh
-$ git clone https://github.com/mcnamarab/runcheck.git
+$ git clone https://github.com/mcnamarab/RunCheck.git
 ```
 
 2. Once you have the repo cloned, you'll want to install the dependencies
